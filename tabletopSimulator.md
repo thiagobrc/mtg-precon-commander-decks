@@ -2,21 +2,21 @@
 
 ## Lorwyn Eclipsed
 ### Blight Curse
-> Description
-https://scryfall.com/@Legionariobr/decks/d0d4a042-2571-494d-8128-d447476673f6
+Description
+> https://scryfall.com/@Legionariobr/decks/d0d4a042-2571-494d-8128-d447476673f6
 ### Dance of the Elements
-> Description
-https://scryfall.com/@Legionariobr/decks/98d3690e-25ba-476a-a0c4-5ec7e29dd5a3
+Description
+> https://scryfall.com/@Legionariobr/decks/98d3690e-25ba-476a-a0c4-5ec7e29dd5a3
 
 ---
 	
 ## Edge of Eternities
 ### Counter Intelligence Precon
-> Description
-https://scryfall.com/@Legionariobr/decks/6c9d2c7a-c87b-49c5-b302-9f0c52f2d57d
+Description
+> https://scryfall.com/@Legionariobr/decks/6c9d2c7a-c87b-49c5-b302-9f0c52f2d57d
 ### World Shaper Precon
-> Description
-https://scryfall.com/@Legionariobr/decks/d0177715-3811-48f6-ab12-aed620e4bba8
+Description
+> https://scryfall.com/@Legionariobr/decks/d0177715-3811-48f6-ab12-aed620e4bba8
 
 ---
 
